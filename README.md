@@ -1,40 +1,16 @@
-# 🍽️ Zomato Restaurant Analytics
+# Zomato Restaurant Analytics
 
 An end-to-end data analytics project on Zomato restaurant listings — cleaned and explored in **Python**, queried with **SQL**, and visualized in an interactive **Power BI** dashboard.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes a dataset of restaurants listed on Zomato to understand market composition, online ordering and table booking adoption, customer engagement (votes & ratings), and pricing patterns. The workflow moves through three stages:
 
 1. **Python (Pandas)** — data cleaning, feature engineering, and exploratory visualizations
 2. **SQL (Oracle)** — structured business-question analysis on the cleaned dataset
 3. **Power BI** — an interactive dashboard summarizing all findings
-
----
-
-## 📂 Repository Contents
-
-```
-├── Zomato_Data.ipynb          # Python cleaning + EDA
-├── Zomato_SQL_Analysis.sql    # SQL business-question queries
-├── Zomato_Reports.pdf         # Exported Power BI report
-├── README.md
-└── images/
-    ├── LIsted_ty.png          # Restaurant count by listed type
-    ├── online_order.png       # Online order availability
-    ├── book_table.png         # Table booking availability
-    ├── top_rated.png          # Top 10 highest-rated restaurants
-    ├── voted_highly.png       # Top 10 most-voted restaurants
-    ├── cost_status.png        # Restaurant distribution by cost category
-    ├── rating_dis.png         # Restaurant distribution by rating level
-    ├── output.png             # Vote level distribution
-    ├── Zomato_Reports-1.png   # Power BI dashboard — page 1
-    └── Zomato_Reports-2.png   # Power BI dashboard — page 2
-```
-
-> Place the chart images in an `images/` folder next to this README (as above) so the previews below render correctly on GitHub.
 
 ---
 
@@ -65,7 +41,7 @@ The raw dataset (`Zomato.csv`) contains **148 restaurant records** with the foll
 
 ---
 
-## 🐍 Python EDA Highlights
+## Python EDA Highlights
 
 | Chart | Insight |
 |---|---|
@@ -81,27 +57,25 @@ The raw dataset (`Zomato.csv`) contains **148 restaurant records** with the foll
 <table>
 <tr>
 <td><img src="images/LIsted_ty.png" width="400"/></td>
-<td><img src="images/online_order.png" width="400"/></td>
+<td><img src="images/online order.png" width="400"/></td>
 </tr>
 <tr>
-<td><img src="images/book_table.png" width="400"/></td>
-<td><img src="images/rating_dis.png" width="400"/></td>
+<td><img src="images/book table.png" width="400"/></td>
+<td><img src="images/rating dis.png" width="400"/></td>
 </tr>
 <tr>
 <td><img src="images/output.png" width="400"/></td>
-<td><img src="images/cost_status.png" width="400"/></td>
+<td><img src="images/cost status.png" width="400"/></td>
 </tr>
 <tr>
-<td><img src="images/top_rated.png" width="400"/></td>
-<td><img src="images/voted_highly.png" width="400"/></td>
+<td><img src="images/top rated.png" width="400"/></td>
+<td><img src="images/voted highly.png" width="400"/></td>
 </tr>
 </table>
 
 ---
 
-## 🗃️ SQL Analysis (Oracle) — Business Questions & Solutions
-
-`Zomato_SQL_Analysis.sql` translates the business problem into 24 structured SQL queries across five themes. Each question is solved directly against the `zomato_data` table; results below are drawn from the query outputs, EDA charts, and the Power BI dashboard.
+##  SQL Analysis (Oracle) — Business Questions & Solutions
 
 ### 1️⃣ Restaurant Market Analysis
 | # | Business Question | Solution / Finding |
