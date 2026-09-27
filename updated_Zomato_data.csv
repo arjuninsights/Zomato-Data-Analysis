@@ -1,0 +1,149 @@
+name,online_order,book_table,votes,rating,cost,listed_in_type,rating_level,cost_status,vote_level
+Jalsa,Yes,Yes,775,4.1,800,Buffet,High Rating,High Cost,Moderate Voted
+Spice Elephant,Yes,No,787,4.1,800,Buffet,High Rating,High Cost,Moderate Voted
+San Churro Cafe,Yes,No,918,3.8,800,Buffet,Average Rating,High Cost,Highly Voted
+Addhuri Udupi Bhojana,No,No,88,3.7,300,Buffet,Average Rating,Low Cost,Low Voted
+Grand Village,No,No,166,3.8,600,Buffet,Average Rating,Moderate Cost,Low Voted
+Timepass Dinner,Yes,No,286,3.8,600,Buffet,Average Rating,Moderate Cost,Low Voted
+Rosewood International Hotel - Bar & Restaurant,No,No,8,3.6,800,Buffet,Average Rating,High Cost,Low Voted
+Onesta,Yes,Yes,2556,4.6,600,Cafes,High Rating,Moderate Cost,Highly Voted
+Penthouse Cafe,Yes,No,324,4.0,700,other,High Rating,Moderate Cost,Low Voted
+Smacznego,Yes,No,504,4.2,550,Cafes,High Rating,Moderate Cost,Moderate Voted
+Village Café,Yes,No,402,4.1,500,Cafes,High Rating,Moderate Cost,Low Voted
+Cafe Shuffle,Yes,Yes,150,4.2,600,Cafes,High Rating,Moderate Cost,Low Voted
+The Coffee Shack,Yes,Yes,164,4.2,500,Cafes,High Rating,Moderate Cost,Low Voted
+Caf-Eleven,No,No,424,4.0,450,Cafes,High Rating,Low Cost,Low Voted
+San Churro Cafe,Yes,No,918,3.8,800,Cafes,Average Rating,High Cost,Highly Voted
+Cafe Vivacity,Yes,No,90,3.8,650,Cafes,Average Rating,Moderate Cost,Low Voted
+Catch-up-ino,Yes,No,133,3.9,800,Cafes,Average Rating,High Cost,Low Voted
+Kirthi's Biryani,Yes,No,144,3.8,700,Cafes,Average Rating,Moderate Cost,Low Voted
+T3H Cafe,No,No,93,3.9,300,Cafes,Average Rating,Low Cost,Low Voted
+360 Atoms Restaurant And Cafe,Yes,No,13,3.1,400,Cafes,Average Rating,Low Cost,Low Voted
+The Vintage Cafe,Yes,No,62,3.0,400,Cafes,Average Rating,Low Cost,Low Voted
+Woodee Pizza,Yes,No,180,3.7,500,Cafes,Average Rating,Moderate Cost,Low Voted
+Cafe Coffee Day,No,No,28,3.6,900,Cafes,Average Rating,High Cost,Low Voted
+My Tea House,Yes,No,62,3.6,600,Cafes,Average Rating,Moderate Cost,Low Voted
+Hide Out Cafe,No,No,31,3.7,300,Cafes,Average Rating,Low Cost,Low Voted
+CAFE NOVA,No,No,11,3.2,600,Cafes,Average Rating,Moderate Cost,Low Voted
+Coffee Tindi,Yes,No,75,3.8,200,Cafes,Average Rating,Low Cost,Low Voted
+Sea Green Cafe,No,No,4,3.3,500,Cafes,Average Rating,Moderate Cost,Low Voted
+Cuppa,No,No,23,3.3,550,Cafes,Average Rating,Moderate Cost,Low Voted
+Srinathji's Cafe,No,No,148,3.8,550,Cafes,Average Rating,Moderate Cost,Low Voted
+Redberrys,Yes,No,219,4.0,600,Cafes,High Rating,Moderate Cost,Low Voted
+Foodiction,Yes,No,506,2.8,500,other,Low Rating,Moderate Cost,Moderate Voted
+Sweet Truth,Yes,No,35,3.9,500,Dining,Average Rating,Moderate Cost,Low Voted
+Ovenstory Pizza,Yes,No,172,3.9,750,Dining,Average Rating,Moderate Cost,Low Voted
+Faasos,Yes,No,415,4.2,500,other,High Rating,Moderate Cost,Low Voted
+Behrouz Biryani,Yes,No,230,3.9,650,Dining,Average Rating,Moderate Cost,Low Voted
+Fast And Fresh,Yes,No,91,2.8,400,Dining,Low Rating,Low Cost,Low Voted
+Szechuan Dragon,Yes,No,1647,4.2,600,Dining,High Rating,Moderate Cost,Highly Voted
+Empire Restaurant,Yes,No,4884,4.4,750,other,High Rating,Moderate Cost,Highly Voted
+Maruthi Davangere Benne Dosa,Yes,No,17,4.0,150,Dining,High Rating,Low Cost,Low Voted
+Chaatimes,Yes,No,133,3.8,200,Dining,Average Rating,Low Cost,Low Voted
+Havyaka Mess,No,No,28,3.9,300,Dining,Average Rating,Low Cost,Low Voted
+McDonald's,Yes,No,286,3.9,500,Dining,Average Rating,Moderate Cost,Low Voted
+Domino's Pizza,Yes,No,540,3.9,800,Dining,Average Rating,High Cost,Moderate Voted
+Onesta,Yes,Yes,2556,4.6,600,other,High Rating,Moderate Cost,Highly Voted
+Hotboxit,No,No,36,3.8,400,Dining,Average Rating,Low Cost,Low Voted
+Kitchen Garden,Yes,No,244,3.6,300,Dining,Average Rating,Low Cost,Low Voted
+Recipe,Yes,No,804,4.0,450,Dining,High Rating,Low Cost,Highly Voted
+Beijing Bites,Yes,No,679,3.7,850,Dining,Average Rating,High Cost,Moderate Voted
+Tasty Bytes,Yes,No,245,3.1,300,Dining,Average Rating,Low Cost,Low Voted
+Petoo,No,No,21,3.7,450,Dining,Average Rating,Low Cost,Low Voted
+Shree Cool Point,Yes,No,28,4.1,150,Dining,High Rating,Low Cost,Low Voted
+Corner House Ice Cream,No,No,345,4.3,400,Dining,High Rating,Low Cost,Low Voted
+Biryanis And More,Yes,No,618,4.0,750,Dining,High Rating,Moderate Cost,Moderate Voted
+Roving Feast,No,No,1047,4.0,450,Dining,High Rating,Low Cost,Highly Voted
+FreshMenu,Yes,No,627,3.9,450,Dining,Average Rating,Low Cost,Moderate Voted
+Banashankari Donne Biriyani,Yes,No,104,3.8,300,Dining,Average Rating,Low Cost,Low Voted
+Wamama,Yes,Yes,354,4.2,800,other,High Rating,High Cost,Low Voted
+Five Star Chicken,No,No,55,3.6,200,Dining,Average Rating,Low Cost,Low Voted
+XO Belgian Waffle,Yes,No,17,3.7,400,Dining,Average Rating,Low Cost,Low Voted
+Peppy Peppers,No,No,244,4.2,800,other,High Rating,High Cost,Low Voted
+Goa 0 Km,Yes,Yes,163,3.6,800,Dining,Average Rating,High Cost,Low Voted
+Chinese Kitchen,Yes,No,58,3.8,150,Dining,Average Rating,Low Cost,Low Voted
+Jeet Restaurant,No,Yes,808,4.0,850,Dining,High Rating,High Cost,Highly Voted
+Cake of the Day,No,No,78,3.7,150,Dining,Average Rating,Low Cost,Low Voted
+Kabab Magic,Yes,No,1720,4.1,400,Dining,High Rating,Low Cost,Highly Voted
+Namma Brahmin's Idli,Yes,No,34,3.6,100,Dining,Average Rating,Low Cost,Low Voted
+Gustoes Beer House,No,No,868,4.1,700,Dining,High Rating,Moderate Cost,Highly Voted
+Sugar Rush,No,No,39,3.8,300,Dining,Average Rating,Low Cost,Low Voted
+Burger King,Yes,No,71,3.2,600,Dining,Average Rating,Moderate Cost,Low Voted
+The Good Bowl,Yes,No,6,3.6,500,Dining,Average Rating,Moderate Cost,Low Voted
+The Biryani Cafe,No,No,520,4.1,300,Dining,High Rating,Low Cost,Moderate Voted
+Spicy Tandoor,No,No,0,4.1,150,Dining,High Rating,Low Cost,Low Voted
+LSD Cafe,No,No,84,2.9,700,other,Low Rating,Moderate Cost,Low Voted
+Rolls On Wheels,No,No,299,3.6,300,Dining,Average Rating,Low Cost,Low Voted
+Om Sri Vinayaka Chats,No,No,0,3.6,500,Dining,Average Rating,Moderate Cost,Low Voted
+Sri Guru Kottureshwara Davangere Benne Dosa,Yes,No,558,4.1,150,Dining,High Rating,Low Cost,Moderate Voted
+Devanna Dum Biriyani Centre,Yes,No,28,3.6,300,Dining,Average Rating,Low Cost,Low Voted
+Kolbeh,No,No,22,3.7,500,Dining,Average Rating,Moderate Cost,Low Voted
+Upahar Sagar,No,No,39,3.8,350,Dining,Average Rating,Low Cost,Low Voted
+Kadalu Sea Food Restaurant,Yes,No,153,3.8,500,Dining,Average Rating,Moderate Cost,Low Voted
+Frozen Bottle,Yes,No,146,4.2,400,Dining,High Rating,Low Cost,Low Voted
+Parimala Sweets,No,No,14,3.5,200,Dining,Average Rating,Low Cost,Low Voted
+Vaishali Deluxe,No,No,42,3.8,700,Dining,Average Rating,Moderate Cost,Low Voted
+Chill Out,No,No,0,3.8,100,Dining,Average Rating,Low Cost,Low Voted
+The Big O Bakes,No,No,66,4.0,300,Dining,High Rating,Low Cost,Low Voted
+Meghana Foods,Yes,No,4401,4.4,600,Dining,High Rating,Moderate Cost,Highly Voted
+Krishna Sagar,No,No,31,3.5,200,Dining,Average Rating,Low Cost,Low Voted
+Dessert Rose,No,No,7,3.5,500,Dining,Average Rating,Moderate Cost,Low Voted
+Chickpet Donne Biryani House,No,No,21,3.7,250,Dining,Average Rating,Low Cost,Low Voted
+Me And My Cake,No,No,0,3.7,500,Dining,Average Rating,Moderate Cost,Low Voted
+Sunsadm,No,No,0,3.7,400,Dining,Average Rating,Low Cost,Low Voted
+Annapooraneshwari Mess,No,No,0,3.7,200,Dining,Average Rating,Low Cost,Low Voted
+Thanco's Natural Ice Creams,No,No,9,3.2,300,Dining,Average Rating,Low Cost,Low Voted
+Nandhini Deluxe,No,No,283,2.6,600,Dining,Low Rating,Moderate Cost,Low Voted
+Vi Ra's Bar and Restaurant,No,No,62,3.3,800,Dining,Average Rating,High Cost,Low Voted
+Kaggis,No,No,64,3.8,250,Dining,Average Rating,Low Cost,Low Voted
+Ayda Persian Kitchen,No,No,39,3.7,950,Dining,Average Rating,High Cost,Low Voted
+Chatar Patar,No,No,65,3.7,300,Dining,Average Rating,Low Cost,Low Voted
+Polar Bear,Yes,No,71,3.8,400,Dining,Average Rating,Low Cost,Low Voted
+Kidambi's Kitchen,No,No,52,3.5,300,Dining,Average Rating,Low Cost,Low Voted
+Mane Thindi,No,No,130,3.7,200,Dining,Average Rating,Low Cost,Low Voted
+Kotian Karavali Restaurant,No,No,10,3.5,300,Dining,Average Rating,Low Cost,Low Voted
+Floured-Baked With Love,No,No,45,3.8,400,Dining,Average Rating,Low Cost,Low Voted
+CAFE NOVA,No,No,11,3.2,600,Dining,Average Rating,Moderate Cost,Low Voted
+Cakes & Slices,No,No,13,3.5,300,Dining,Average Rating,Low Cost,Low Voted
+Spice 9,No,No,8,3.4,300,Dining,Average Rating,Low Cost,Low Voted
+Coffee Shopee,No,No,0,3.4,250,Dining,Average Rating,Low Cost,Low Voted
+Naveen Kabab & Biriyani Mane,No,No,9,3.2,300,Dining,Average Rating,Low Cost,Low Voted
+Katriguppe Donne Biryani,No,No,4,3.2,300,Dining,Average Rating,Low Cost,Low Voted
+Hari Super Sandwich,No,No,0,3.2,200,Dining,Average Rating,Low Cost,Low Voted
+Atithi Point Ande Ka Funda,No,No,29,3.1,150,Dining,Average Rating,Low Cost,Low Voted
+Just Bake,No,No,8,3.4,400,Dining,Average Rating,Low Cost,Low Voted
+Dharwad Line Bazaar Mishra Pedha,No,No,0,3.4,150,Dining,Average Rating,Low Cost,Low Voted
+Cake Bite,No,No,0,3.4,300,Dining,Average Rating,Low Cost,Low Voted
+Aarush's Food Plaza,No,No,0,3.4,200,Dining,Average Rating,Low Cost,Low Voted
+Wood Stove,No,No,0,3.4,150,Dining,Average Rating,Low Cost,Low Voted
+Kulfi & More,No,No,0,3.4,150,Dining,Average Rating,Low Cost,Low Voted
+Kannadigas Karavali,No,No,0,3.4,250,Dining,Average Rating,Low Cost,Low Voted
+K27 - The Pub,No,No,30,3.1,900,Dining,Average Rating,High Cost,Low Voted
+Bengaluru Coffee House,Yes,No,201,4.1,300,Dining,High Rating,Low Cost,Low Voted
+New Mangalore Lunch Home,No,No,7,3.3,200,Dining,Average Rating,Low Cost,Low Voted
+Coffee Bytes,No,No,6,3.1,100,Dining,Average Rating,Low Cost,Low Voted
+Parjanya Chat Zone,No,No,17,3.3,200,Dining,Average Rating,Low Cost,Low Voted
+Kwality Wall's Swirl's Happiness Station,No,No,25,2.9,200,Dining,Low Rating,Low Cost,Low Voted
+Soms Kitchen & Bakes,No,No,0,2.9,400,Dining,Low Rating,Low Cost,Low Voted
+Banashankari Nati Style,No,No,0,2.9,350,Dining,Low Rating,Low Cost,Low Voted
+Ruchi Maayaka,No,No,8,3.3,100,Dining,Average Rating,Low Cost,Low Voted
+Mohitesh Hut Roll,No,No,0,3.3,150,Dining,Average Rating,Low Cost,Low Voted
+Sri Basaveshwar Jolada Rotti Oota,No,No,0,3.4,150,Dining,Average Rating,Low Cost,Low Voted
+Roll Magic Fast Food,No,No,0,3.4,200,Dining,Average Rating,Low Cost,Low Voted
+Foodlieious Multi Cuisine,No,No,0,3.4,100,Dining,Average Rating,Low Cost,Low Voted
+Thanishka Nati And Karavali Style,No,No,0,3.1,400,Dining,Average Rating,Low Cost,Low Voted
+Swathi Cool Point,No,No,0,4.1,200,Dining,High Rating,Low Cost,Low Voted
+Kaumudis Juoice,No,No,0,3.3,150,Dining,Average Rating,Low Cost,Low Voted
+Amma - Manae,No,No,0,3.1,400,Dining,Average Rating,Low Cost,Low Voted
+Sri Sai Tiffannies,No,No,0,3.3,150,Dining,Average Rating,Low Cost,Low Voted
+Hotel Andhra Speices,No,No,0,2.9,250,Dining,Low Rating,Low Cost,Low Voted
+Sri Murari Family Restaurant,No,No,0,2.9,250,Dining,Low Rating,Low Cost,Low Voted
+Aramane Donne Biriyani,No,No,0,2.9,150,Dining,Low Rating,Low Cost,Low Voted
+Darkolates,No,No,0,3.3,200,Dining,Average Rating,Low Cost,Low Voted
+Swaada Healthy Kitchen,No,No,0,3.3,350,Dining,Average Rating,Low Cost,Low Voted
+Gawdaru Mane Beriyani,No,No,0,3.3,300,Dining,Average Rating,Low Cost,Low Voted
+Melting Melodies,No,No,0,3.3,100,Dining,Average Rating,Low Cost,Low Voted
+New Indraprasta,No,No,0,3.3,150,Dining,Average Rating,Low Cost,Low Voted
+Anna Kuteera,Yes,No,771,4.0,450,Dining,High Rating,Low Cost,Moderate Voted
+Darbar,No,No,98,3.0,800,Dining,Average Rating,High Cost,Low Voted
+Vijayalakshmi,Yes,No,47,3.9,200,Dining,Average Rating,Low Cost,Low Voted
