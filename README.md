@@ -1,6 +1,6 @@
-# Zomato Restaurant Analytics
+# Zomato Restaurant Analysis
 
-An end-to-end data analytics project that uses **Python, Oracle SQL, and Power BI** to analyze Zomato restaurant data. The project covers data cleaning, exploratory data analysis, business queries, and an interactive dashboard to understand restaurant types, online ordering, table booking, customer ratings, votes, and pricing.
+An end-to-end data analysis project that uses **Python, Oracle SQL, and Power BI** to analyze Zomato restaurant data. The project covers data cleaning, exploratory data analysis, business queries, and an interactive dashboard to understand restaurant types, online ordering, table booking, customer ratings, votes, and pricing.
 
 ---
 
